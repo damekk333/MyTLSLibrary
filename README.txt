@@ -1,4 +1,4 @@
-1.Import library(configured for all version of Android 1-10) in Android Studio
+1.Import library MyTLSLibrary.jar(configured for all version of Android 1-10) in Android Studio
 2.Put cacert, clientcert and clientkey in Assets folder in your app.
 3.In app need to be configured three arguments:
         //ca init//
